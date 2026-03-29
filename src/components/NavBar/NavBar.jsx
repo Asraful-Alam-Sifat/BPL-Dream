@@ -3,7 +3,7 @@ import currencyIcon from '../../assets/Currency.png';
 
 const NavBar = () => {
     return (
-      <div className="navbar bg-base-100 shadow-sm">
+      <div className="navbar bg-base-100 border-none ">
   <div className="flex-none">
     <button className="btn btn-square btn-ghost">
     
