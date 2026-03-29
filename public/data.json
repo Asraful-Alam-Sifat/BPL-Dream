@@ -1,0 +1,72 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "playerImage": "https://i.ibb.co.com/tMJphfq2/images.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000,
+    "playerImage": "https://i.ibb.co.com/VpPnzzjd/AP23116421466279-1711875056.webp"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 9.2,
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1450000,
+    "playerImage": "https://i.ibb.co.com/SGs60hT/download.jpg"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000,
+    "playerImage": "https://i.ibb.co.com/60HFw9zj/kane-williamson-blog-image.webp"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 9.4,
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 1300000,
+    "playerImage": "https://i.ibb.co.com/Pz6vDgzg/images.webp"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1200000,
+    "playerImage": "https://i.ibb.co.com/jPkR07fS/licensed-image.webp"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.1,
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1250000,
+    "playerImage": "https://i.ibb.co.com/0VcXz0Q1/download.jpg"
+  }
+]
